@@ -7,4 +7,4 @@ apples - 55%			100
 watermelon - 50% 		50
 oranges - 47%			100
 blueberries - 41%		150
-lemons - 41%
+lemons - 41%			1000
