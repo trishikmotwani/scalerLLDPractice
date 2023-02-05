@@ -10,6 +10,6 @@ Italy - 64.5 million				Something
 Turkey - 51.2 million				Something
 Mexico - 45.0 million				Something
 Thailand - 39.8 million				Pataya
-Germany - 39.6 million
-United Kingdom - 39.4 million
+Germany - 39.6 million				Something
+United Kingdom - 39.4 million		Something
 	
