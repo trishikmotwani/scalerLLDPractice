@@ -1,8 +1,10 @@
-bananas - 63%
-strawberries - 56%
-grapes - 55%
-apples - 55%
-watermelon - 50%
-oranges - 47%
+FruitName				Price
+___________________________________
+bananas - 63%			10
+strawberries - 56%		40
+grapes - 55%			25
+apples - 55%			100
+watermelon - 50% 		50
+oranges - 47%			100
 blueberries - 41%
 lemons - 41%
