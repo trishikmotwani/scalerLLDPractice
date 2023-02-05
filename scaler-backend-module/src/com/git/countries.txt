@@ -1,13 +1,15 @@
 // list 20 countries
 
-France - 90.0 million
-Spain - 83.7 million
-United States - 79.3 million
-China - 65.7 million
-Italy - 64.5 million
+Counntries							Capitals
+____________________________________________________
+France - 90.0 million 				Paris
+Spain - 83.7 million				Something
+United States - 79.3 million		NewYork
+China - 65.7 million				
+Italy - 64.5 million				
 Turkey - 51.2 million
 Mexico - 45.0 million
-Thailand - 39.8 million
+Thailand - 39.8 million				Pataya
 Germany - 39.6 million
 United Kingdom - 39.4 million
 	
