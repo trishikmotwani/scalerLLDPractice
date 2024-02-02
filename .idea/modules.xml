@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/scalerLLDPractice.iml" filepath="$PROJECT_DIR$/.idea/scalerLLDPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa/dsa.iml" filepath="$PROJECT_DIR$/dsa/dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals/java-fundamentals.iml" filepath="$PROJECT_DIR$/java-fundamentals/java-fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/low-level-design/low-level-design.iml" filepath="$PROJECT_DIR$/low-level-design/low-level-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading-practice/multithreading-practice.iml" filepath="$PROJECT_DIR$/multithreading-practice/multithreading-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-lot/parking-lot.iml" filepath="$PROJECT_DIR$/parking-lot/parking-lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-lot-java/parking-lot-java.iml" filepath="$PROJECT_DIR$/parking-lot-java/parking-lot-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-commands-practice/scaler-backend-module.iml" filepath="$PROJECT_DIR$/git-commands-practice/scaler-backend-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solid-principles/solid-principles.iml" filepath="$PROJECT_DIR$/solid-principles/solid-principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting-practice/sorting-practice.iml" filepath="$PROJECT_DIR$/sorting-practice/sorting-practice.iml" />
     </modules>
   </component>
 </project>
