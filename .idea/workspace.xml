@@ -5,80 +5,130 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f669d6c-0d93-4e56-8b1e-06e13982722b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/design-patterns-kshitij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/behavioural/strategy/BallPen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/behavioural/strategy/Pen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/behavioural/strategy/RefillByInk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/behavioural/strategy/RefillStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/behavioural/strategy/Write.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/creational/builder/Subway$SubwayBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/creational/builder/Subway.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/creational/builder/SubwayClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/design-patterns-kshitij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/phonepe/AxisBankApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/phonepe/BankApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/phonepe/IciciBankApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/phonepe/PhonePeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/phonepe/adapters/AxisBankApiAdapterImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/phonepe/adapters/BankApiAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/phonepe/adapters/IciciBankApiAdapterImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/xorlist/ListAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/adapter/xorlist/XorList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/ComponentClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/SelectBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/TextArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/TextField.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/UiComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/decorators/BorderDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/decorators/ScrollBarDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/decorators/ShadowDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns-kshitij/out/production/design-patterns-kshitij/com/scaler/practice/designpatterns/structural/decorator/decorators/UiComponentDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/factory/factorymethod/BirdSound/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/factory/factorymethod/BirdSound/BirdClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/factory/factorymethod/BirdSound/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/factory/factorymethod/BirdSound/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/factory/factorymethod/BirdSound/product/BirdSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/factory/factorymethod/BirdSound/product/CrowSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/factory/factorymethod/BirdSound/product/EagleSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/mergeSort/MergeSortRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/mergeSort/multithreaded/MergeSortMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/mergeSort/multithreaded/MergeSortTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/printTask/executerMethod/ExecuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/printTask/executerMethod/PrintRangeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/printTask/legacyMethod/PrintNumbersClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/printTask/legacyMethod/PrintRangeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parking-lot-java/parking-lot-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/parking-lot-java/parking-lot-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/scaler/creational/builderpattern/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/builderpattern/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/scaler/creational/builderpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/scaler/creational/builderpattern/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: -1
+  &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2bpW8sJPNmaxBid18OEuXkd79U4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Scaler/java-intellij-workspace/scalerLLDPractice/design-patterns-kshitij&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Scaler/java-intellij-workspace/scalerLLDPractice",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scaler.behavioral.observer.Client" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.revision.multithreading.basics.printTask.executerMethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BirdClient">
+    <configuration name="BirdClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scaler.creational.factory.factorymethod.BirdSound.BirdClient" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scaler.behavioral.observer.*" />
+          <option name="PATTERN" value="scaler.creational.factory.factorymethod.BirdSound.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecuterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.revision.multithreading.basics.printTask.executerMethod.ExecuterMain" />
+      <module name="multithreading-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revision.multithreading.basics.printTask.executerMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.revision.multithreading.basics.mergeSort.multithreaded.MergeSortMain" />
+      <module name="multithreading-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revision.multithreading.basics.mergeSort.multithreaded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.revision.multithreading.basics.mergeSort.MergeSortRecursive" />
+      <module name="multithreading-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revision.multithreading.basics.mergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumbersClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.revision.multithreading.basics.printTask.legacyMethod.PrintNumbersClient" />
+      <module name="multithreading-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revision.multithreading.basics.printTask.legacyMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,7 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.BirdClient" />
+        <item itemvalue="Application.MergeSortMain" />
+        <item itemvalue="Application.MergeSortRecursive" />
+        <item itemvalue="Application.ExecuterMain" />
+        <item itemvalue="Application.PrintNumbersClient" />
       </list>
     </recent_temporary>
   </component>
@@ -102,5 +156,26 @@
       <updated>1706912348906</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/mergeSort/multithreaded/MergeSortMain.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/multithreading-practice/src/com/revision/multithreading/basics/mergeSort/multithreaded/MergeSortTask.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-patterns/src/scaler/creational/builderpattern/production/Car.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

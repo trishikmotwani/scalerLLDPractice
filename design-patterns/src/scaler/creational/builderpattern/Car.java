@@ -38,13 +38,16 @@ public class Car {
 		}
 		this.tyresize = carBuilder.getTyresize();
 	}
-	public Car(String name) {
-		this.name = name;
+	public static Builder getBuilder() {
+		return new Builder();
 	}
-	public Car(String name, CarTypes carType) {
-		this(name);
-		this.carType = carType;
-	}
+//	public Car(String name) {
+//		this.name = name;
+//	}
+//	public Car(String name, CarTypes carType) {
+//		this(name);
+//		this.carType = carType;
+//	}
 	// one more scenario, what if you want to validate some fields before object is created , eg: tiresize should always be > 10 incehs
 	public String getName() {
 		return name;

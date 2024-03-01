@@ -23,7 +23,8 @@ public class Client {
 		Car hondaCity = new Car(hondaCityBuilder);
 		
 		// way2 more intuitive and clear
-		
+//		Car silverCretaBuilder = Car.getBuilder().setName("Creta").s
+//				.setTyresize(20).build();
 	}
 
 }
